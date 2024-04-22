@@ -44,7 +44,7 @@ main {
 }
 /* hero section styles */
 .hero-section-container {
- margin: 130px 0px;
+  margin: 130px 0px;
   display: flex;
   gap: 90px;
 }
@@ -70,5 +70,32 @@ main {
   font-size: 16px;
   font-weight: 400;
 }
-
-
+/* start  my plan section styles */
+.my-plan-section-title {
+  color: rgb(21, 20, 20);
+  font-size: 40px;
+  font-weight: 700;
+  text-align: center;
+  margin-bottom: 50px;
+}
+.my-plan-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.my-plan-title {
+  color: rgb(21, 20, 20);
+  font-size: 30px;
+  font-weight: 700;
+  margin-top: 30px;
+}
+.my-plan-section-container{
+  margin: 130px 0px;
+}
+.my-plan-description {
+  margin-top: 16px;
+  color: rgb(115, 114, 114);
+  font-size: 25px;
+  font-weight: 500;
+}
+/* End my plan section styles */
